@@ -2,7 +2,7 @@
 
 # Introduction
 
-If there's one thing everyone wants, it's to be happy; however, it’s challenging to quantify exactly what makes us happy. Nonetheless, the World Happiness Index grants us insight into what countries value the most. The purpose of this report is to determine how different metrics impact our perceived happiness and draw general conclusions as to what we value most as a people.
+While happiness is inherently subjective, the World Happiness Index offers a structured way to examine the measurable factors associated with well-being across nations. This report analyzes key indicators within the dataset to determine how different variables influence perceived happiness and to identify broader trends in the drivers of societal well-being.
 
 # Data Validation and cleaning
 
