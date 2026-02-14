@@ -72,7 +72,7 @@ Figure 4
 
 # Conclusion
 
-Happiness varies greatly both within and across regions throughout the world. While countries may have different values and beliefs, there are still common themes among them. Countries with high social support, life expectancy, and GDP per capita tend to be happier. These three factors are linked, as wealthier countries tend to have more social support and longer life expectancies. While the saying money doesn't buy happiness is not a foreign concept to many of us, in the case of the World Happiness Report, it definitely does make it easier to attain it.
+Happiness varies considerably both within and across regions of the world. Although countries differ in cultural values and social structures, several common patterns emerge. Nations with higher levels of social support, longer life expectancy, and greater GDP per capita consistently report higher happiness scores. These factors are closely interconnected, as greater economic resources often support stronger social systems and improved health outcomes. While the idea that money cannot buy happiness remains widely accepted, findings from the World Happiness Report suggest that economic prosperity can significantly enhance the conditions that make higher levels of well-being more attainable.
 
 
 
